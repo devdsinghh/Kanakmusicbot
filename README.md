@@ -1,9 +1,9 @@
 <h2 align="center">
-    ─˹𝐒ᴀʀ‌‌ᴇɢᴀмᴀ 𝐌мᴜѕɪᴄ ᯤ‌˼─
+    ─˹˹𝐊ᴀɴᴀᴋ ꭙ 𝐌ᴜꜱɪᴄ˼ ♪ • ᯤ‌˼─
 
 </h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝙰𝚁𝙴𝙶𝙰𝙼𝙰+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+:+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗘𝗔𝗠+𝗥𝗢𝗖𝗞𝗬 )
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚂𝙰𝚁𝙴𝙶𝙰𝙼𝙰+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+:+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝐍𝐨𝐯𝐚 ✘ 𝐌𝐮𝐬𝐢𝐜  )
 
 
 
@@ -24,7 +24,7 @@
 ## 🖇 ❛ 𝗠𝘂𝘀𝗶𝗰 𝗪𝗼𝗿𝗹𝗱 𝗨𝗽𝗱𝗮𝘁𝗲 ❜
 
 <p>
-<a href="https://t.me/SaregamaMusic_bot"><img src="https://img.shields.io/badge/SAREGAMA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/NovaTunesBot"><img src="https://img.shields.io/badge/SAREGAMA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 <a href="https://t.me/BabyMusicsBot-Gen"><img src="https://img.shields.io/badge/BABY%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
