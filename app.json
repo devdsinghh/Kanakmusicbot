@@ -41,7 +41,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "2f53a2413a205c48b3a9a9b0a701e656",
+        "value": "",
 
         "required": true
 
@@ -71,7 +71,7 @@
 
         "description": "The user id of user whom you would like to add as OWNER.",
 
-        "value": "7668543228",
+        "value": "8295320953",
 
         "required": true
 
